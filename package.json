@@ -1,8 +1,8 @@
 {
-  "name": "rsshub",
+  "name": "rsshub-serverless",
   "version": "1.0.0",
   "description": "Make RSS Great Again!",
-  "main": "lib/workers_index.js",
+  "main": "lib/pkg.js",
   "files": [
     "lib"
   ],
@@ -82,7 +82,6 @@
     "etag": "1.8.1",
     "fanfou-sdk": "4.2.0",
     "git-rev-sync": "3.0.1",
-    "googleapis": "66.0.0",
     "got": "11.8.1",
     "https-proxy-agent": "5.0.0",
     "iconv-lite": "0.6.2",
@@ -105,7 +104,6 @@
     "parse-torrent": "9.1.0",
     "pidusage": "2.0.21",
     "plist": "3.0.1",
-    "puppeteer": "5.5.0",
     "query-string": "6.13.7",
     "redis": "3.0.2",
     "require-all": "3.0.0",
